@@ -1,2 +1,2 @@
 # Python_tasks
-Решение задач по программированию на Python
+Solving tasks with Python programming
