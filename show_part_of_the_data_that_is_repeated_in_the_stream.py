@@ -1,8 +1,8 @@
 # Выводим подстроки, которые входят в строку, полученную через STDIN
 
-data = input("Введите данные для анализа:\n")
+data = input('Введите данные для анализа:\n')
 data_len = len(data)
-repeating_length_min = input("Задайте минимальную длину строки для анализа совпадений:\n")
+repeating_length_min = input('Задайте минимальную длину строки для анализа совпадений:\n')
 repeating_length_min = int(repeating_length_min)
 
 
