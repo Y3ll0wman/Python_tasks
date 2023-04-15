@@ -5,7 +5,6 @@ data_len = len(data)
 repeating_length_min = input("Задайте минимальную длину строки для анализа совпадений:\n")
 repeating_length_min = int(repeating_length_min)
 repeating_pieces = []
-longest_repeating_piece = ''
 piece = ''
 index_counter = 0
 range_counter = 0
